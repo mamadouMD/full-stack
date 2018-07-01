@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{32371B05-18F6-40F4-A868-18847520BBE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SRP/Before/InsuranceController.cs">
+    <Files>
+      <File FileName="SRP/Before/Program.cs" Line="8" Column="1" />
+      <File FileName="SRP/Before/InsuranceController.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adilfaisal/Documents/OneDrive - MINIPACK/Library/coding/SOLID-Demo/SRP/Before/Program.cs" relfile="SRP/Before/Program.cs" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SRP.Before PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
